@@ -27,7 +27,7 @@
     -->
 
     <rule ref="Generic.ControlStructures.InlineControlStructure"/>
-    <rule ref="Generic.Formatting.SpaceAfterCast"/>
+   <!-- <rule ref="Generic.Formatting.SpaceAfterCast"/>-->
     <rule ref="Generic.Functions.CallTimePassByReference"/>
     <!-- Doctrine Event Constants are not uppercase -->
     <!--<rule ref="Generic.NamingConventions.UpperCaseConstantName"/>-->
